@@ -1,2 +1,6 @@
 #!/bin/env python
-print "TODO"
+from windows import PyApp
+import gtk
+
+PyApp()
+gtk.main()
